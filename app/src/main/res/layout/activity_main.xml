@@ -264,7 +264,6 @@
             android:id="@+id/rdbRedondeo"
             android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:checked="true"
             android:layout_weight="1"
             android:text="Redondeo" />
 
