@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
         lblDcto.setText("Descuento");
         chbxDcto.setChecked(false);
         chbxPago.setChecked(false);
-        rdbRedondeo.setChecked(true);
+        rgRedondeo.clearCheck();
 
     }
 }
